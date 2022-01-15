@@ -1,0 +1,1 @@
+to build deps move to root of project and run.
